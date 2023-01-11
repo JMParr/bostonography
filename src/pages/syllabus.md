@@ -59,6 +59,7 @@ Northeastern University · INSH 2102
 
 * **Mon, Jan 30**
     * 📖 Reading: [Taxonomy vs Ontology: Machine Learning Breakthroughs](https://www.dataversity.net/taxonomy-vs-ontology-machine-learning-breakthroughs/) - DATAVERSITY 
+    * Workshop: Database architecture and Data Interoperability, Digital Teaching Integration Initiative.
 * **Wed, Feb 1**
     * 📖 Reading: Helen Couclelis, "Unpacking the “I” in GIS: Information, Ontology, and the Geographic World," in _The Philosophy of GIS_ (Springer, 2019), pp. 3–24. **PDF on Canvas**
 
@@ -139,7 +140,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 
 # About the class
 
-Class Expectations: 
+# Class Expectations: 
 
 **Attendance**: Students should make every effort to be regularly engaged in the course week-to-week. Although much of the course is asynchronous, it will ordinarily not be possible to revert to past weeks to make up new ground. Exceptions will be made for students with accommodation letters from the Disability Resource Center and may be extended to students who are dealing with extraordinary circumstances. Students who find themselves facing extenuating circumstances should contact me as early as possible, as I may be less able to help if you disappear from class for an extended period. 
 
