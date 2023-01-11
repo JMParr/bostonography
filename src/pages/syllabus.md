@@ -49,7 +49,7 @@ Northeastern University · INSH 2102
 * **Mon, Jan 23**
     * 📖 Reading: Farge, _The Allure of Archives_, pp. ix-17 **PDF on Canvas**
     * 📺 Viewing: [What Are Archives? Animating The Archives](https://www.youtube.com/watch?v=QNN2LFe_iD8)
-    * 🔨 Tool: Omeka Demo
+    * 🎨 Lab Exercise: Omeka Demo
 * **Wed, Jan 25**
     * 📖 Reading: Shannon Mattern, "[Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/)," _Places Journal_ (June 2014). **Free online journal.**
     * 📖 Reading: Flip through [_List of maps of Boston published subsequent to 1600: copies of which are to be found in the possession of the city of Boston or other collectors of the same_](https://archive.org/details/listofmapsofbost00bost_1) (Boston: Municipal Printing Office, 1904). **Digitized at Internet Archive.**
@@ -74,7 +74,7 @@ Northeastern University · INSH 2102
 * **Mon, Feb 13**
    * 📖 Reading: A.A. GOODRUM1, B.C. O’CONNOR2 and J.M. TURNER, Introduction to Special Topic Issue of Computers
 and the Humanities: “Digital Images,” Computers and the Humanities 33: 291–292, 1999. Kristen M.Schuster and Sarah L.Gilli, Digital Humanities and Image Metadata: Improving Access Through Shared Practices," Digital Humanities, Librareis, and Partnerships, pp 107-123. **PDFS on Canvas.** 
-    * 🔨 Tool: ThingLink
+    * 🎨 Lab Exercise: ThingLink
 * **Wed, Feb 15**
     * 📖 Reading: Excerpt from Kevin Lynch, _The Image of the City_ (MIT Press, 1960). **PDF on Canvas.**
     * 🎨 Lab Exercise: IIIF and Georeferencing
@@ -84,7 +84,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 * **Mon, Feb 21**
    * 📖 Reading: Dunn, _A History of Place in the Digital Age_ (Routledge, 2020), Ch. 1 **PDF on Canvas**
     * NULab projects: See Canvas for Links
-    * 🔨 Tool: StoryMaps
+    * 🎨 Lab Exercise: StoryMaps
 * **Wed, Feb 23**
     * 📖 Reading: Matthew Knutzen, "Unbinding the Atlas: Moving the NYPL Map Collection Beyond Digitization," _Journal of Map & Geography Libraries_ 9 (2013), [doi:10.1080/15420353.2012.726204](https://doi.org/10.1080/15420353.2012.726204)
     * 🎨 Lab Exercise: Annotating a Fire Insurance Map
@@ -111,7 +111,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 * **Mon, Mar 20**
     * 📖 Reading: Underwood, [Where to Start with Text Mining](https://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/)); Schmidt, [Comparing Corpuses by Word Use](http://sappingattention.blogspot.com/2011/10/comparing-corpuses-by-word-use.html))
     * 📺 Viewing: [Posner, Textual Analysis: A Walking Tour](https://www.youtube.com/watch?v=X5eAULsBm0w)) 
-    * Textual Analysis Workshop with Lexos
+    * 🎨 Lab Exercise: Lexos
 * **Wed, Mar 22**
     * 👋 Visit: Andy Woodruff, co-founder of [_Bostonography_](https://bostonography.com) blog and 2023 LMEC Designer-in-Residence
 
