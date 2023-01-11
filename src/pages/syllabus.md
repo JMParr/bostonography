@@ -17,11 +17,18 @@ Northeastern University · INSH 2102
 
 **Office Hours**: 
 
-* Prof. Parr: Mon, 11-12:30 (In Meserve 221, or virtually be request)
+* Prof. Parr: Mon, 11-12:30 (In Meserve 221, or virtually by request)
 * Prof. Nelson: Fridays, 12 pm  – 2 pm (at the Boston Public Library and virtually)
+
+Northeastern University · INSH 2102
 
 **Course Website:** https://bostonography.netlify.app and [Canvas](https://northeastern.instructure.com/courses/134129)
 
+# Assignments
+
+* Labs - 50% (total)
+* Engagement - 20% 
+* Final Project - 30%
 
 # Detailed schedule
 
